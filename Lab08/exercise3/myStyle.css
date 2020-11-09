@@ -1,0 +1,47 @@
+body
+{
+  background-image: url("exercise3images/monkeybackground.jpg");
+}
+
+.header
+{
+  color: blue;
+  font-family: arial;
+  font-size: 80px;
+  text-align: center;
+}
+.header:hover
+{
+  color:red;
+}
+
+.longtext
+{
+  color: blue;
+  font-family: arial;
+  font-size: 20pt;
+  text-align: center;
+  background-color: yellow;
+}
+
+.selfie
+{
+  color: red;
+  font-family: comic sans;
+}
+.selfie:hover
+{
+
+  color:blue;
+}
+
+.website:hover
+{
+  color: white;
+}
+
+.video
+{
+  margin-left: 1200px;
+  margin-top: -500px;
+}
